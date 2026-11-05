@@ -30,7 +30,7 @@ An analysis of the customer journey across an e-commerce platform, examining how
 
 **Objective:** Understand customer purchasing behavior and identify opportunities to improve conversion.
 
-[View Project →]([./ecommerce-funnel-analysis](https://github.com/gordon-moenga/Data-Analyst-Portfolio/tree/main/python-projects))
+[View Project →][./ecommerce-funnel-analysis](https://github.com/gordon-moenga/Data-Analyst-Portfolio/tree/main/python-projects)
 
 ### 2. Revenue Decline Analysis
 
