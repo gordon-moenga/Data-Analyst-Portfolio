@@ -59,5 +59,7 @@ I'm particularly interested in projects involving business performance, customer
 
 ## Author
 **GORDON MOENGA**
+
 **Data Analyst**
+
 gordonmoenga@gmail.com | www.linkedin.com/in/gordon-moenga-a4604838a
