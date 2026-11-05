@@ -47,7 +47,7 @@ Despite an increase in order volume, the business experienced a significant reve
 
 **Objective:** Investigate the factors contributing to declining revenue and develop data-driven business recommendations.
 
-[View Project →]([./nordcart-revenue-decline-analysis](https://github.com/gordon-moenga/Data-Analyst-Portfolio/tree/main/SQL-projects))
+[View Project →][./nordcart-revenue-decline-analysis](https://github.com/gordon-moenga/Data-Analyst-Portfolio/tree/main/SQL-projects)
 
 ## 🎯 What I'm Working Towards
 
